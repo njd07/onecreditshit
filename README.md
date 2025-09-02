@@ -62,15 +62,6 @@ php -S localhost:8000
 
 ## 🌐 Deployment
 
-### Deploy to Vercel
-1. Fork this repository
-2. Connect your GitHub account to Vercel
-3. Import the project
-4. Add environment variables in Vercel dashboard:
-   - `ELEVENLABS_API_KEY`
-   - `ELEVENLABS_AGENT_ID`
-5. Deploy!
-
 ### Deploy to GitHub Pages
 1. Fork this repository
 2. Go to Settings > Pages
@@ -93,8 +84,7 @@ onecreditshit/
 ├── package.json           # Package configuration
 ├── vercel.json            # Vercel deployment config
 ├── DEPLOYMENT.md          # Deployment instructions
-├── LICENSE                # MIT License
-└── .kiro/                 # Development specs (optional)
+└── LICENSE                # MIT License
 ```
 
 ## 🎯 Usage
