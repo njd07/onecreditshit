@@ -31,8 +31,8 @@ Visit the live application: [AI Health Clinic Bhopal](https://your-vercel-url.ve
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-health-clinic-bhopal.git
-cd ai-health-clinic-bhopal
+git clone https://github.com/njd07/onecreditshit.git
+cd onecreditshit
 ```
 
 ### 2. Configure Environment Variables
@@ -76,19 +76,24 @@ php -S localhost:8000
 2. Go to Settings > Pages
 3. Select source: Deploy from a branch
 4. Choose `main` branch
-5. Your site will be available at `https://yourusername.github.io/ai-health-clinic-bhopal`
+5. Your site will be available at `https://njd07.github.io/onecreditshit`
 
 ## 📁 Project Structure
 
 ```
-ai-health-clinic-bhopal/
+onecreditshit/
 ├── index.html              # Main landing page
 ├── dashboard.html          # Patient dashboard
+├── landing.html            # Landing page
 ├── config.js              # Configuration management
 ├── .env                   # Environment variables (not in git)
 ├── .env.example           # Environment variables template
 ├── .gitignore             # Git ignore rules
 ├── README.md              # This file
+├── package.json           # Package configuration
+├── vercel.json            # Vercel deployment config
+├── DEPLOYMENT.md          # Deployment instructions
+├── LICENSE                # MIT License
 └── .kiro/                 # Development specs (optional)
 ```
 
@@ -123,7 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/ai-health-clinic-bhopal/issues) page
+1. Check the [Issues](https://github.com/njd07/onecreditshit/issues) page
 2. Create a new issue if your problem isn't already reported
 3. Provide detailed information about the problem
 
