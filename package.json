@@ -1,0 +1,31 @@
+{
+  "name": "ai-health-clinic-bhopal",
+  "version": "1.0.0",
+  "description": "A modern, AI-powered health consultation platform built with ElevenLabs conversational AI technology",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --listen 3000",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "echo 'Deploy to Vercel or GitHub Pages'"
+  },
+  "keywords": [
+    "ai",
+    "health",
+    "clinic",
+    "elevenlabs",
+    "healthcare",
+    "consultation",
+    "voice-ai"
+  ],
+  "author": "AI Health Clinic Bhopal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ai-health-clinic-bhopal.git"
+  },
+  "homepage": "https://yourusername.github.io/ai-health-clinic-bhopal",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
