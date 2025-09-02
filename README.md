@@ -13,7 +13,7 @@ A modern, AI-powered health consultation platform built with ElevenLabs conversa
 
 ## 🚀 Live Demo
 
-Visit the live application: [AI Health Clinic Bhopal](https://your-vercel-url.vercel.app)
+Visit the live application: [AI Health Clinic Bhopal](https://one-credit-shit.netlify.app)
 
 ## 🛠️ Technologies Used
 
