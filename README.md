@@ -13,7 +13,7 @@ A modern, AI-powered health consultation platform built with ElevenLabs conversa
 
 ## 🚀 Live Demo
 
-Visit the live application: [AI Health Clinic Bhopal](https://one-credit-shit.netlify.app)
+Visit the live application: [AI Health Clinic Bhopal](https://ai-health-project-exb-68.netlify.app)
 
 ## 🛠️ Technologies Used
 
