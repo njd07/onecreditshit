@@ -1,0 +1,31 @@
+{
+  "general_query_keywords": [
+    "what is", "tell me about", "explain", "side effects", "symptoms", "how to", "information about", "medication", "treatment", "condition",
+    "preparation", "recovery", "diet", "exercise", "prevention", "causes", "diagnosis", "prognosis", "therapy", "procedure",
+    "benefits", "risks", "complications", "management", "lifestyle", "nutrition", "supplements", "home remedies", "alternative treatments",
+    "dosage", "administration", "contraindications", "precautions", "monitoring", "follow-up", "self-care", "triggers", "chronic",
+    "acute", "symptom management", "pain relief", "rehabilitation", "physical therapy", "mental health", "wellness", "screening",
+    "vaccination", "immunization", "prevention tips", "healthy habits", "disease progression", "stages", "relapse", "remission",
+    "coping strategies", "support groups", "clinical trials", "research", "latest studies", "medical advice", "health tips"
+  ],
+  "user_based_keywords": [
+    "appointment", "schedule", "book", "cancel", "reschedule", "my appointment", "doctor", "specialist", "check-up", "visit",
+    "available", "when can I", "billing", "insurance", "test results", "prescription", "refill", "my records", "consultation",
+    "follow-up appointment", "referral", "primary care", "second opinion", "telemedicine", "virtual visit", "in-person visit",
+    "appointment availability", "wait time", "clinic hours", "urgent care", "walk-in", "patient portal", "medical history",
+    "lab results", "imaging results", "blood test", "diagnostic test", "health records", "medical chart", "pharmacy",
+    "medication pickup", "prior authorization", "insurance coverage", "out-of-pocket", "co-pay", "claim status", "provider network",
+    "specialist referral", "appointment confirmation", "rescheduling options", "cancellation policy", "doctor availability",
+    "healthcare provider", "nurse practitioner", "physician assistant", "medical consultation", "health screening", "wellness visit"
+  ],
+  "emergency_keywords": [
+    "emergency", "urgent", "chest pain", "difficulty breathing", "severe pain", "bleeding", "unconscious", "heart attack", "stroke",
+    "poisoning", "can't breathe", "severe", "immediately", "right now", "help", "critical", "life threatening", "cardiac arrest",
+    "seizure", "choking", "allergic reaction", "anaphylaxis", "severe allergic", "trauma", "injury", "fracture", "head injury",
+    "concussion", "burns", "severe burns", "shock", "fainting", "collapse", "unresponsive", "severe bleeding", "profuse bleeding",
+    "shortness of breath", "respiratory distress", "sudden weakness", "numbness", "slurred speech", "vision loss", "severe headache",
+    "migraine emergency", "abdominal pain", "severe vomiting", "dehydration", "high fever", "uncontrolled fever", "infection",
+    "severe infection", "overdose", "drug reaction", "suicidal thoughts", "mental health crisis", "panic attack", "severe dizziness",
+    "loss of consciousness", "rapid heartbeat", "palpitations", "emergency room", "call 911", "urgent care needed"
+  ]
+}
